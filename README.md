@@ -1,26 +1,27 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Welcome to the HyperDev BETA
+============================
+
+Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
+
+HyperDev is a developer playground that lets you code a real web-app without the slow setup and deployment steps. 
+
+[About HyperDev](https://hyperdev.com/about)
 
 
-Hi there! Welcome to Cloud9 IDE!
+Your Project
+------------
 
-To get you started, we included a small hello world application.
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env`
 
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+On the front-end,
+- edit `client.js`, `style.css` and `index.html`
+- drag in `assets`, like images or music, to add them to your project
 
 
-## Support & Documentation
+Made by Fog Creek
+-----------------
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+\ ゜o゜)ノ
